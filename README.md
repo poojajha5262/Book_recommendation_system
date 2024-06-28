@@ -1,6 +1,9 @@
 # Book_recommendation_system
+
 In this project we use three different datasets to come up with a book recommendation system for different users based on how they and others have rated previously purchased books.
+
 Dataset 1: Users Data Dataset 2: Ratings Data Dataset 3: Books Data
+
 Project Summary:
 Recommender systems go hand in hand with the bussinesses that have established their presence on the internet. With the huge amount of products and services available online to customers, it becomes imperative for the bussinesses to boil down the total available items to a select group of items that might be of interest to a customer. This will not only enhance the customer's shopping experience and reduce the efforts which go into making a satisfying purchase but it will also have a tremendous impact on the performance of the bussiness.
 
